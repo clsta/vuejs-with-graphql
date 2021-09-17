@@ -2,12 +2,12 @@
 
 ## Project setup
 ```
-npm install
+npm install --save apollo-server apollo-server-core apollo-server-express express nodemon
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm start
 ```
 
 ### Compiles and minifies for production
