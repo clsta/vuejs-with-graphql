@@ -1,6 +1,6 @@
 # vue-apollo-map
 
-## Project setup
+## Project setup(server)
 ```
 npm install --save apollo-server apollo-server-core apollo-server-express express nodemon
 ```
